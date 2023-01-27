@@ -600,7 +600,9 @@ button:hover {
         margin-left: 0px;
 
     }
-
+button{
+    text-align: center;
+}
     .example {
         display: block;
     }
