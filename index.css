@@ -605,6 +605,9 @@ button{
 }
     .example {
         display: block;
+        animation-duration: 0s;
+        
+        animation-iteration-count:0;
     }
 
 
